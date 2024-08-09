@@ -1,0 +1,29 @@
+body{
+    background-color: rgba(163, 145, 145, 0.917);
+}
+
+.elemento_menu{
+    color: rgb(28, 127, 214);
+    display: inline;
+    margin: 12%;
+    font-size: 20px;
+}
+
+.Titulo{
+    display: inline;
+    color: black;
+    font-size: 30px;
+}
+
+.Texto{
+    display: inline;
+}
+
+.texto_centrado{
+    margin-left: 42%;
+    font-size: large;
+}
+
+.logo{
+    margin-left: 30%;
+}
