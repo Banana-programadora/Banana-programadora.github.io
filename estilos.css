@@ -1,5 +1,7 @@
 body{
     background-color: rgba(163, 145, 145, 0.917);
+    margin: 0%;
+    padding: 0%;
 }
 
 .elemento_menu{
@@ -26,6 +28,11 @@ body{
 
 .logo{
     margin-left: 30%;
+}
+
+#temporizador{
+    font-size: 100px;
+    margin-left: 42%;
 }
 
 .img_python{
